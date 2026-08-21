@@ -1,0 +1,6 @@
+{
+  "gateway": {
+    "bind": "lan",
+    "trustedProxies": ["100.64.0.0/10"]
+  }
+}
